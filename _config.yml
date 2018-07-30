@@ -1,0 +1,68 @@
+typography_spectrum: 0.968358657322824
+color:
+  brandStrength: 0.5467271879315376
+  lightness: 0.67149448976852
+  saturation: 0.17876955587416887
+  rhythmicContrast: 0.16829917766153812
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.49889967450872064
+name: '300'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: We’re making smart legal coverage simple
+    url: 'https://checkout.legalshield.com/?associate=112310628'
+    type: external
+  - name: "WHAT WE DO We are committed to meeting the needs of businesses, institutions, governments, and o\uFEFFrganizations operating in a multicultural environment. "
+    id: b4cab424-6d1e-4429-9e13-7962d5fa5547
+    type: content
+  - name: 'Immigration law '
+    id: d4bf0323-bf7e-4bc0-bf5d-e1e55fd7de54
+    type: content
+title: 'VK advocate '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c8c2c10-1026-4d6c-9b70-f3a70f8a7219.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c8c2c10-1026-4d6c-9b70-f3a70f8a7219.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Lus est ars boni et aequi '
+purpose:
+  - type: contact
+    url: 'tel:17025801021'
+    label: Call 17025801021
+  - type: contact
+    url: 'tel:011359988209957'
+    label: Call 011359988209957
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcaa5d68-54d6-4ac9-b40e-a65aa4119618.jpg
