@@ -30,7 +30,32 @@ navigation:
     id: d4bf0323-bf7e-4bc0-bf5d-e1e55fd7de54
     type: content
 title: 'VK advocate '
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/250a09c4-14b0-4f30-9705-332bf7a4e839.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/250a09c4-14b0-4f30-9705-332bf7a4e839.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Lus est ars boni et aequi '
 purpose:
   - type: contact
