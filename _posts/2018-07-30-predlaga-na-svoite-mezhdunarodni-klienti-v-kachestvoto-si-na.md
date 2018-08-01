@@ -20,8 +20,8 @@ description: >-
   повече.Свържете се сега по телефон вайбер : 1 702 580 1021 или +359 0988 209
   957skype: vkolganovEmail: Bulgarian.american.lawoffice@gmail.com Първа Българо
   Американска Адвокатска Къща/First Bulgarian American Law Office
-dateModified: '2018-07-30T22:50:55.450Z'
-datePublished: '2018-07-30T22:50:56.135Z'
+dateModified: '2018-08-01T19:26:18.243Z'
+datePublished: '2018-08-01T19:26:19.338Z'
 title: ''
 author: []
 publisher: {}
@@ -40,8 +40,6 @@ _type: Article
 <iframe src="https://the-grid.github.io/ed-location/?latitude=43.20778&amp;longitude=27.91694&amp;zoom=10&amp;address=%D0%92%D0%B0%D1%80%D0%BD%D0%B0%2C%20%D0%92%D0%B0%D1%80%D0%BD%D0%B0%2C%20Bulgaria" style=""></iframe>
 
 ---
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3392cb25-fe3e-4345-a1fc-a42047b5b4ba.jpg)
 
 <button data-role="cta" style="">Call now </button>
 
